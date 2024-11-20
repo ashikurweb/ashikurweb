@@ -54,7 +54,7 @@ I'm a **frontend web developer** who specializes in creating **error-free websit
 ### 🌐 **Let's Connect**
 
 <div align="center">
-  <a href="https://github.com/ashikurSEC" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/ashikurweb" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ashikur-rahman-365836290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/ashikurrahman7194" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/ashikurrahman7194?igshid=MTBteTBqMGRiOGlsZw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -66,7 +66,7 @@ I'm a **frontend web developer** who specializes in creating **error-free websit
 ### 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashikurSEC&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashikurweb&theme=onedark&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -74,13 +74,13 @@ I'm a **frontend web developer** who specializes in creating **error-free websit
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikurSEC&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurSEC&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=ashikurSEC&theme=highcontrast" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikurweb&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurweb&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ashikurweb&theme=highcontrast" alt="GitHub Streak" height="165"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikurSEC&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashikurweb&style=for-the-badge" alt="profile views" />
 </div>
