@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashikur%20Rahman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Vue.js%20Expert&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashikur%20Rahman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Laravel%20and%20Vue.js%20Expert&descAlignY=51&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Full+Stack+Developer+at+CodeShaper;🚀+Laravel+%26+Vue.js+Specialist;💡+Open+Source+Contributor;🔥+Building+Amazing+Web+Applications;⚡+Clean+Code+%26+Best+Practices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Full+Stack+Developer+at+CodeShaper;🚀+Laravel+and+Vue.js+Specialist;💡+Open+Source+Contributor;🔥+Building+Amazing+Web+Applications;⚡+Clean+Code+and+Best+Practices" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎯+Full+Stack+Developer+passionate+about+clean+code;💼+Working+at+CodeShaper+with+modern+technologies;🚀+Laravel+%26+Vue.js+specialist+from+Bangladesh;🔥+Building+scalable+web+applications+daily;✨+Open+source+contributor+and+tech+enthusiast" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎯+Full+Stack+Developer+passionate+about+clean+code;💼+Working+at+CodeShaper+with+modern+technologies;🚀+Laravel+and+Vue.js+specialist+from+Bangladesh;🔥+Building+scalable+web+applications+daily;✨+Open+source+contributor+and+tech+enthusiast" alt="About Me Animation" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
         <ul>
           <li>🏢 <strong>Software Engineer</strong> at <strong>CodeShaper</strong></li>
           <li>📍 Based in <strong>Dhaka, Bangladesh</strong> 🇧🇩</li>
-          <li>💻 <strong>5+ years</strong> of web development experience</li>
+          <li>💻 <strong>6+ months</strong> of web development experience</li>
           <li>🎨 Passionate about <strong>clean code</strong> & <strong>modern design</strong></li>
           <li>🌱 Currently mastering <strong>React.js</strong> & <strong>advanced JavaScript</strong></li>
           <li>⚡ Love solving complex problems with elegant solutions</li>
@@ -165,7 +165,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **What I'm Currently Working On**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=🔭+Building+scalable+Laravel+applications;🌱+Mastering+React.js+%26+modern+JavaScript;👯+Contributing+to+open+source+projects;💬+Sharing+knowledge+with+the+community;⚡+Always+learning+new+technologies" alt="Current Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=🔭+Building+scalable+Laravel+applications;🌱+Mastering+React.js+and+modern+JavaScript;👯+Contributing+to+open+source+projects;💬+Sharing+knowledge+with+the+community;⚡+Always+learning+new+technologies" alt="Current Work" />
 </div>
 
 <br/>
