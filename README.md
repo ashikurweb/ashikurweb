@@ -1,155 +1,197 @@
-# <div align="center">👋 Hi there, I'm **Ashikur Rahman**</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Codeshaper;Laravel+%26+Vue.js+Developer;Full-Stack+Web+Developer;Open+Source+Enthusiast;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashikur%20Rahman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20Vue.js%20Expert&descAlignY=51&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Full+Stack+Developer+at+CodeShaper;🚀+Laravel+%26+Vue.js+Specialist;💡+Open+Source+Contributor;🔥+Building+Amazing+Web+Applications;⚡+Clean+Code+%26+Best+Practices" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<div align="center">
+  <a href="https://github.com/ashikurweb">
+    <img src="https://komarev.com/ghpvc/?username=ashikurweb&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/ashikurweb?tab=followers">
+    <img src="https://img.shields.io/github/followers/ashikurweb?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/ashikurweb">
+    <img src="https://img.shields.io/github/stars/ashikurweb?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
+  </a>
+</div>
 
-```javascript
-const ashikur = {
-    role: "Full-Stack Developer",
-    company: "Codeshaper",
-    location: "Bangladesh 🇧🇩",
-    code: ["JavaScript", "PHP", "HTML", "CSS"],
-    technologies: {
-        backEnd: ["Laravel", "PHP", "MySQL"],
-        frontEnd: ["Vue.js", "JavaScript", "HTML5", "CSS3"],
-        frameworks: ["Laravel", "Vue.js", "Inertia.js"],
-        styling: ["Tailwind CSS", "Bootstrap", "Ant Design Vue"],
-        tools: ["Git", "Linux", "Ubuntu"],
-        currentlyLearning: ["React.js", "Advanced JavaScript"]
-    },
-    passion: "Building scalable web applications with clean code",
-    goal: "Creating impactful solutions that make a difference"
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  company: string;
+  location: string;
+  languages: string[];
+  frameworks: string[];
+  databases: string[];
+  tools: string[];
+  focus: string[];
+}
+
+const ashikur: Developer = {
+  name: "Ashikur Rahman",
+  role: "Full Stack Developer",
+  company: "CodeShaper",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  languages: ["PHP", "JavaScript", "HTML5", "CSS3"],
+  frameworks: ["Laravel", "Vue.js", "Inertia.js", "Bootstrap"],
+  databases: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "Linux", "Ubuntu", "VS Code"],
+  focus: ["Clean Architecture", "Performance", "User Experience"]
 };
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> **GitHub Stats**
 
 <div align="center">
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### Styling & Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
-### Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashikurweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurweb&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ashikurweb&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Ashikur Rahman github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurweb&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurweb&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurweb&theme=github-dark-blue&hide_border=true&stroke=0000&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="ashikurweb" />
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashikurweb&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 💡 What I'm Up To
-
-<div align="center">
-
-```diff
-+ 🔭 Currently working on: Advanced Laravel & Vue.js projects
-+ 🌱 Learning: React.js and modern JavaScript frameworks  
-+ 👯 Looking to collaborate on: Open source projects
-+ 💬 Ask me about: Laravel, Vue.js, PHP, JavaScript
-+ ⚡ Fun fact: I love solving complex problems with elegant code
-```
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mastering+React.js+for+dynamic+interfaces;Building+scalable+Laravel+applications;Contributing+to+open+source+projects;Exploring+modern+web+technologies" alt="Current Focus" />
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="25"> **Let's Connect!**
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikurweb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikur-rahman-365836290/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashikurrahman7194)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashikurrahman7194?igshid=MTBteTBqMGRiOGlsZw==)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikurrahman7194@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashikurrahman7194)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikurrahman7194@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 💭 Developer Quote
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **What I'm Currently Working On**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=🔭+Building+scalable+Laravel+applications;🌱+Mastering+React.js+%26+modern+JavaScript;👯+Contributing+to+open+source+projects;💬+Sharing+knowledge+with+the+community;⚡+Always+learning+new+technologies" alt="Current Work" />
 </div>
 
----
+<br/>
 
-## 🎵 Coding Playlist
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> **GitHub Activity**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=♪+Lo-fi+beats+while+coding;♪+Instrumental+focus+music;♪+Ambient+programming+sounds;♪+Deep+focus+electronic" alt="Coding Music" />
+  <img alt="Ashikur Rahman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashikurweb&custom_title=Ashikur%20Rahman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
 </div>
 
----
+<br/>
+
+## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="25"> **GitHub Trophies**
 
 <div align="center">
-
-### 🌟 "Code is poetry written in logic" 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=FBBF24&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+💻✨" alt="Closing Message" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashikurweb&color=blueviolet&style=for-the-badge)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ashikurweb&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+amazing+together!+🚀;Happy+coding!+💻✨" alt="Footer" />
+</div>
