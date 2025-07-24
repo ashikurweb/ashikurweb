@@ -1,11 +1,20 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#FF5733;">Ashikur Rahman</span></h1>
-<h3 align="center">🚀 A Passionate Web Developer | Crafting Seamless Web Experiences</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi there, I'm <span style="color:#FF5733;">Ashikur Rahman</span>
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Codeshaper;Laravel+%26+Vue.js+Developer;Open+Source+Contributor;Linux+%26+Ubuntu+Expert;Passionate+About+Clean+Code+%26+UI/UX">
+  </a>
+</p>
 
 ---
 
 ### ✨ **About Me**
 
-I'm a **frontend web developer** who specializes in creating **error-free websites** with 100% client satisfaction. I’m always eager to learn, share my knowledge, and solve real-world problems with a **strategic and goal-oriented mindset**. Over the years, I’ve developed numerous websites, ensuring quality work and effective communication. I enjoy working with **ReactJS**, **JavaScript**, **PHP**, and have a strong affinity for **WordPress**.
+I'm a **frontend web developer** specializing in creating **error-free websites** with 100% client satisfaction.  
+I love **learning new technologies**, solving **real-world problems**, and building **seamless user experiences** with **Laravel**, **Vue.js**, and **modern frontend frameworks**.
 
 ---
 
