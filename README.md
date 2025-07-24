@@ -24,35 +24,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎯+Full+Stack+Developer+passionate+about+clean+code;💼+Working+at+CodeShaper+with+modern+technologies;🚀+Laravel+%26+Vue.js+specialist+from+Bangladesh;🔥+Building+scalable+web+applications+daily;✨+Open+source+contributor+and+tech+enthusiast" alt="About Me Animation" />
+</div>
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  company: string;
-  location: string;
-  languages: string[];
-  frameworks: string[];
-  databases: string[];
-  tools: string[];
-  focus: string[];
-}
+<br/>
 
-const ashikur: Developer = {
-  name: "Ashikur Rahman",
-  role: "Full Stack Developer",
-  company: "CodeShaper",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  languages: ["PHP", "JavaScript", "HTML5", "CSS3"],
-  frameworks: ["Laravel", "Vue.js", "Inertia.js", "Bootstrap"],
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "Linux", "Ubuntu", "VS Code"],
-  focus: ["Clean Architecture", "Performance", "User Experience"]
-};
-```
-
-<br clear="right"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" alt="Coding gif"/>
+      </td>
+      <td>
+        <h3>🌟 Quick Facts About Me:</h3>
+        <ul>
+          <li>🏢 <strong>Software Engineer</strong> at <strong>CodeShaper</strong></li>
+          <li>📍 Based in <strong>Dhaka, Bangladesh</strong> 🇧🇩</li>
+          <li>💻 <strong>5+ years</strong> of web development experience</li>
+          <li>🎨 Passionate about <strong>clean code</strong> & <strong>modern design</strong></li>
+          <li>🌱 Currently mastering <strong>React.js</strong> & <strong>advanced JavaScript</strong></li>
+          <li>⚡ Love solving complex problems with elegant solutions</li>
+          <li>🎯 Goal: Building impactful applications that make a difference</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
 
