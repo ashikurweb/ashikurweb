@@ -94,9 +94,9 @@
     </td>
     <td align="center" width="96">
       <a href="#ashikurweb-tech">
-        <img src="https://skillicons.dev/icons?i=ajax" width="48" height="48" alt="AJAX" />
+        <img src="https://skillicons.dev/icons?i=inertia" width="48" height="48" alt="Inertia" />
       </a>
-      <br>AJAX
+      <br>Inertia Js
     </td>
   </tr>
   <tr>
