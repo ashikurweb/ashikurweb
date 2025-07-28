@@ -130,6 +130,12 @@
       </a>
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=alpinejs" width="48" height="48" alt="Alpine Js" />
+      </a>
+      <br>Alpine Js
+    </td>
   </tr>
 </table>
 
