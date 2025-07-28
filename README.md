@@ -92,6 +92,12 @@
       </a>
       <br>CSS3
     </td>
+    <td align="center" width="96">
+      <a href="#ashikurweb-tech">
+        <img src="https://skillicons.dev/icons?i=ajax" width="48" height="48" alt="AJAX" />
+      </a>
+      <br>AJAX
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
